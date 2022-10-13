@@ -8,3 +8,15 @@ from selenium.webdriver.common.by import By
 import time
 import bs4
 from seleniumSetup import BrowserSetup
+
+def browserSetup():
+
+    browser = webdriver.Chrome(PATH)
+    browser.get(nyTimesLink)
+    time.sleep(6)
+
+    return browser
+
+    
+def actionSetup(browser):
+    return ActionChains(browser)
