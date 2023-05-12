@@ -9,7 +9,7 @@ Note: This is a browser version but a requests version is in the works...
 GIF of what it looks like when its solving
 
 # LEARNED
-This project really exposed me to revursion, and really helped me understand its implementation in code. Also learned about the structure of websites and what to look for when trying to use selenium, to ensure it does its purpose.
+This project really exposed me to recursion, and really helped me understand its implementation in code. Also learned about the structure of websites and what to look for when trying to use selenium, to ensure it does its purpose.
 
 - recursion
 
