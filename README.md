@@ -1,6 +1,6 @@
-# NY-TIMES-DAILY-SUDOKO-SOLVER
+# NY-TIMES-DAILY-SUDOKU-SOLVER
 
-A small script to solve the New York Times Daily Sudoko
+A small script to solve the New York Times Daily Sudoku
 
 Note: This is a browser version but a requests version is in the works...
 
